@@ -1,11 +1,1 @@
-## Hi there 👋
-
-I'm a passionate developer who loves exploring new technologies and building interesting projects. I'm always eager to learn, collaborate, and contribute to the open-source community.
-
-### 📫 Let's Connect
-- Feel free to reach out if you want to collaborate on projects or discuss ideas!
-- Check out my repositories below to see what I'm working on.
-
----
-
-*Happy coding!* ⚡
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=veeddduuuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeddduuuu&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=veeddduuuu&theme=tokyonight&hide_border=true" /> </p>
